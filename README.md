@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [uizze/anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) - STOP UI SLOP before it ships with a free, cross-agent finish-gate workflow grounded in 800,000+ real web and iOS screens.
 
 ### Skill Marketplaces & directories
 
